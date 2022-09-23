@@ -213,5 +213,4 @@ SELECT * from ctvwk;
 SELECT * from rnokw;
 SELECT * from llhfq;
 SELECT * from ldnjg;
-SELECT * from momhu;
-SELECT * from sjqhk;
+SELECT * from hnucm;
