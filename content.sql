@@ -1,1 +1,1 @@
-SELECT * from ualry;
+SELECT * from dejef;
