@@ -1,1 +1,1 @@
-resource "random_string" "xkwat" { length = 10 }
+resource "random_string" "btmmt" { length = 10 }
