@@ -1,1 +1,1 @@
-resource "random_string" "btmmt" { length = 10 }
+resource "random_string" "aiwhi" { length = 10 }
