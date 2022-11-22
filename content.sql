@@ -215,3 +215,4 @@ SELECT * from llhfq;
 SELECT * from ldnjg;
 SELECT * from bncgm;
 SELECT * from qolvm;
+SELECT * from mnpfd;
