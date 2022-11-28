@@ -216,3 +216,4 @@ SELECT * from ldnjg;
 SELECT * from bncgm;
 SELECT * from qolvm;
 SELECT * from jmdsh;
+SELECT * from gwjbk;
