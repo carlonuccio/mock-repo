@@ -6,3 +6,4 @@ SELECT * from bewgo;
 SELECT * from tefkn;
 SELECT * from bkrqw;
 SELECT * from tsbcj;
+SELECT * from wdlmx;
