@@ -219,4 +219,4 @@ SELECT * from jmdsh;
 SELECT * from vsrwx;
 SELECT * from npjlp;
 SELECT * from ludna;
-SELECT * from uraeo;
+SELECT * from wphsr;
