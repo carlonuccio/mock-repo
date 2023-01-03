@@ -221,3 +221,4 @@ SELECT * from npjlp;
 SELECT * from ludna;
 SELECT * from wphsr;
 SELECT * from mpraj;
+SELECT * from dwkht;
