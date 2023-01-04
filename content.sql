@@ -7,3 +7,4 @@ SELECT * from tefkn;
 SELECT * from bkrqw;
 SELECT * from tsbcj;
 SELECT * from wdlmx;
+SELECT * from fdurs;
