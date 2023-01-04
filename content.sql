@@ -222,3 +222,4 @@ SELECT * from ludna;
 SELECT * from wphsr;
 SELECT * from mpraj;
 SELECT * from dwkht;
+SELECT * from gbwjv;
