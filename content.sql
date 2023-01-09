@@ -10,3 +10,4 @@ SELECT * from wdlmx;
 SELECT * from fdurs;
 SELECT * from gjqcd;
 SELECT * from aanhc;
+SELECT * from lvslw;
