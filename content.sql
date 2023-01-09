@@ -224,3 +224,4 @@ SELECT * from mpraj;
 SELECT * from dwkht;
 SELECT * from gbwjv;
 SELECT * from ymoxl;
+SELECT * from viciu;
