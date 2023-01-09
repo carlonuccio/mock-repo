@@ -225,3 +225,4 @@ SELECT * from dwkht;
 SELECT * from gbwjv;
 SELECT * from ymoxl;
 SELECT * from viciu;
+SELECT * from cxprh;
