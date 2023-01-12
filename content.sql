@@ -11,4 +11,4 @@ SELECT * from fdurs;
 SELECT * from gjqcd;
 SELECT * from aanhc;
 SELECT * from lvslw;
-SELECT * from hxume;
+SELECT * from nlyqu;
