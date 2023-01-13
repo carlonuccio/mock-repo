@@ -227,3 +227,4 @@ SELECT * from ymoxl;
 SELECT * from viciu;
 SELECT * from cxprh;
 SELECT * from stmte;
+SELECT * from wdgkk;
