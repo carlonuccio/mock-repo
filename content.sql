@@ -228,4 +228,4 @@ SELECT * from viciu;
 SELECT * from cxprh;
 SELECT * from stmte;
 SELECT * from fxhmk;
-SELECT * from ghgdo;
+SELECT * from breab;
