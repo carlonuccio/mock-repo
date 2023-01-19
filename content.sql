@@ -14,3 +14,4 @@ SELECT * from lvslw;
 SELECT * from nlyqu;
 SELECT * from kiqjv;
 SELECT * from frpow;
+SELECT * from ygoxd;
