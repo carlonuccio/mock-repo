@@ -229,3 +229,4 @@ SELECT * from cxprh;
 SELECT * from stmte;
 SELECT * from fxhmk;
 SELECT * from breab;
+SELECT * from djwfh;
