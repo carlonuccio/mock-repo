@@ -232,3 +232,4 @@ SELECT * from breab;
 SELECT * from cygug;
 SELECT * from ahouo;
 SELECT * from ltbjk;
+SELECT * from moens;
