@@ -17,4 +17,4 @@ SELECT * from frpow;
 SELECT * from umcgw;
 SELECT * from dehvh;
 SELECT * from sbngh;
-SELECT * from nndli;
+SELECT * from ksndh;
