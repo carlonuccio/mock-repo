@@ -18,3 +18,4 @@ SELECT * from umcgw;
 SELECT * from dehvh;
 SELECT * from sbngh;
 SELECT * from ksndh;
+SELECT * from xlwwb;
