@@ -233,3 +233,4 @@ SELECT * from cygug;
 SELECT * from ahouo;
 SELECT * from ltbjk;
 SELECT * from gywwx;
+SELECT * from bfsti;
