@@ -20,4 +20,4 @@ SELECT * from sbngh;
 SELECT * from ksndh;
 SELECT * from xlwwb;
 SELECT * from gadwl;
-SELECT * from egnxk;
+SELECT * from wgiwc;
