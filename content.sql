@@ -235,4 +235,4 @@ SELECT * from ltbjk;
 SELECT * from gywwx;
 SELECT * from bfsti;
 SELECT * from ebrjg;
-SELECT * from lpgup;
+SELECT * from gfxow;
