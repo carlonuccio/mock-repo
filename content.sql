@@ -21,3 +21,4 @@ SELECT * from ksndh;
 SELECT * from xlwwb;
 SELECT * from gadwl;
 SELECT * from gpixl;
+SELECT * from swngc;
