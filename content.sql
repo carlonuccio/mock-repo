@@ -22,3 +22,4 @@ SELECT * from xlwwb;
 SELECT * from gadwl;
 SELECT * from gpixl;
 SELECT * from vhxld;
+SELECT * from xlcgh;
