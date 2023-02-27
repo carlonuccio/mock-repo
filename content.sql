@@ -237,4 +237,4 @@ SELECT * from bfsti;
 SELECT * from ebrjg;
 SELECT * from gfxow;
 SELECT * from fexsd;
-SELECT * from blikc;
+SELECT * from lwnlm;
