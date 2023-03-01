@@ -23,4 +23,4 @@ SELECT * from gadwl;
 SELECT * from gpixl;
 SELECT * from vhxld;
 SELECT * from mqahm;
-SELECT * from tcqps;
+SELECT * from opyfu;
