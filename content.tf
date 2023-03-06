@@ -7,4 +7,4 @@ resource "random_string" "lxrfl" { length = 10 }
 resource "random_string" "gjfvp" { length = 10 }
 resource "random_string" "pjwqj" { length = 10 }
 resource "random_string" "mufkm" { length = 10 }
-resource "random_string" "lwykf" { length = 10 }
+resource "random_string" "ilfii" { length = 10 }
