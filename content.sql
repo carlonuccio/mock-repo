@@ -239,3 +239,4 @@ SELECT * from gfxow;
 SELECT * from fexsd;
 SELECT * from lwnlm;
 SELECT * from cqgel;
+SELECT * from jtkiq;
