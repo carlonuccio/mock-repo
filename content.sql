@@ -241,3 +241,4 @@ SELECT * from lwnlm;
 SELECT * from cqgel;
 SELECT * from jtkiq;
 SELECT * from hlhye;
+SELECT * from deccr;
