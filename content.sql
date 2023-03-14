@@ -27,4 +27,4 @@ SELECT * from ifsdy;
 SELECT * from dceyl;
 SELECT * from ocjin;
 SELECT * from vkqju;
-SELECT * from crnaw;
+SELECT * from ewstc;
