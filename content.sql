@@ -26,4 +26,4 @@ SELECT * from mqahm;
 SELECT * from ifsdy;
 SELECT * from dceyl;
 SELECT * from ocjin;
-SELECT * from ctuqo;
+SELECT * from vkqju;
