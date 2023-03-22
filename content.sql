@@ -28,3 +28,4 @@ SELECT * from dceyl;
 SELECT * from ocjin;
 SELECT * from vkqju;
 SELECT * from obvey;
+SELECT * from ujfrs;
