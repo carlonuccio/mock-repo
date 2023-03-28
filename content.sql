@@ -244,4 +244,4 @@ SELECT * from hlhye;
 SELECT * from uynvv;
 SELECT * from evqpo;
 SELECT * from sldvm;
-SELECT * from edpgr;
+SELECT * from imuba;
