@@ -30,4 +30,4 @@ SELECT * from vkqju;
 SELECT * from obvey;
 SELECT * from gqlej;
 SELECT * from kyuur;
-SELECT * from rqpww;
+SELECT * from yrtyy;
