@@ -247,3 +247,4 @@ SELECT * from sldvm;
 SELECT * from imuba;
 SELECT * from jlofl;
 SELECT * from bgukj;
+SELECT * from ttqxd;
