@@ -32,3 +32,4 @@ SELECT * from gqlej;
 SELECT * from kyuur;
 SELECT * from twunb;
 SELECT * from jkafh;
+SELECT * from lqktu;
