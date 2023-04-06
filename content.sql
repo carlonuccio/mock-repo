@@ -33,4 +33,4 @@ SELECT * from kyuur;
 SELECT * from twunb;
 SELECT * from jkafh;
 SELECT * from xfprr;
-SELECT * from lsjio;
+SELECT * from bnddj;
