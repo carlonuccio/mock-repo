@@ -34,3 +34,4 @@ SELECT * from twunb;
 SELECT * from jkafh;
 SELECT * from xfprr;
 SELECT * from bnddj;
+SELECT * from vetnp;
