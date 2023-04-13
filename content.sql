@@ -36,4 +36,3 @@ SELECT * from xfprr;
 SELECT * from bnddj;
 SELECT * from lbrlc;
 SELECT * from cikqi;
-SELECT * from pxnfu;
