@@ -251,4 +251,4 @@ SELECT * from jrgsb;
 SELECT * from wjrfm;
 SELECT * from wvdxi;
 SELECT * from dnbid;
-SELECT * from ymhsi;
+SELECT * from soxue;
