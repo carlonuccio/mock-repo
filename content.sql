@@ -36,4 +36,4 @@ SELECT * from xfprr;
 SELECT * from bnddj;
 SELECT * from lbrlc;
 SELECT * from momxt;
-SELECT * from hsnos;
+SELECT * from yxnpx;
