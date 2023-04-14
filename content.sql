@@ -251,4 +251,4 @@ SELECT * from jrgsb;
 SELECT * from wjrfm;
 SELECT * from wvdxi;
 SELECT * from mghqd;
-SELECT * from iygry;
+SELECT * from ekdmu;
