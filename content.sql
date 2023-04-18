@@ -252,3 +252,4 @@ SELECT * from wjrfm;
 SELECT * from wvdxi;
 SELECT * from mghqd;
 SELECT * from lrnsw;
+SELECT * from yuyrb;
