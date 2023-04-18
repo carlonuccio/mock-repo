@@ -37,3 +37,4 @@ SELECT * from bnddj;
 SELECT * from lbrlc;
 SELECT * from momxt;
 SELECT * from ykdku;
+SELECT * from nlshy;
