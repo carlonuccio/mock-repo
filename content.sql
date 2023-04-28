@@ -40,3 +40,4 @@ SELECT * from ykdku;
 SELECT * from nkosd;
 SELECT * from xskfm;
 SELECT * from wmong;
+SELECT * from plubh;
