@@ -39,4 +39,4 @@ SELECT * from momxt;
 SELECT * from ykdku;
 SELECT * from nkosd;
 SELECT * from xskfm;
-SELECT * from ckogt;
+SELECT * from wmong;
