@@ -254,4 +254,4 @@ SELECT * from mghqd;
 SELECT * from lrnsw;
 SELECT * from twgor;
 SELECT * from pjepy;
-SELECT * from pikqh;
+SELECT * from wnrel;
