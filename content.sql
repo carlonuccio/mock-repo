@@ -255,4 +255,4 @@ SELECT * from lrnsw;
 SELECT * from twgor;
 SELECT * from pjepy;
 SELECT * from wnrel;
-SELECT * from ijver;
+SELECT * from edofa;
