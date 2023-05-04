@@ -41,4 +41,4 @@ SELECT * from nkosd;
 SELECT * from xskfm;
 SELECT * from wmong;
 SELECT * from upngv;
-SELECT * from qmiwl;
+SELECT * from jfgfm;
