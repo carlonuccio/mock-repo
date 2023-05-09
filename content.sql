@@ -257,3 +257,4 @@ SELECT * from pjepy;
 SELECT * from wnrel;
 SELECT * from edofa;
 SELECT * from uhhyx;
+SELECT * from dfnqs;
