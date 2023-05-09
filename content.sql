@@ -256,4 +256,4 @@ SELECT * from twgor;
 SELECT * from pjepy;
 SELECT * from wnrel;
 SELECT * from edofa;
-SELECT * from imwgu;
+SELECT * from uhhyx;
