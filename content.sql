@@ -259,3 +259,4 @@ SELECT * from edofa;
 SELECT * from uhhyx;
 SELECT * from dfnqs;
 SELECT * from ogdhx;
+SELECT * from ifvca;
