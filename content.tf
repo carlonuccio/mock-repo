@@ -10,4 +10,4 @@ resource "random_string" "mufkm" { length = 10 }
 resource "random_string" "ilfii" { length = 10 }
 resource "random_string" "qoqkc" { length = 10 }
 resource "random_string" "jwmkt" { length = 10 }
-resource "random_string" "egagp" { length = 10 }
+resource "random_string" "oscii" { length = 10 }
