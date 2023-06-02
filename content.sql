@@ -260,3 +260,4 @@ SELECT * from uhhyx;
 SELECT * from dfnqs;
 SELECT * from ogdhx;
 SELECT * from tnsnj;
+SELECT * from allke;
