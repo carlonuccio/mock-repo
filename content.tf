@@ -13,4 +13,4 @@ resource "random_string" "jwmkt" { length = 10 }
 resource "random_string" "ktdgx" { length = 10 }
 resource "random_string" "fuscq" { length = 10 }
 resource "random_string" "rhmqm" { length = 10 }
-resource "random_string" "pmqcv" { length = 10 }
+resource "random_string" "wxlea" { length = 10 }
