@@ -14,4 +14,4 @@ resource "random_string" "ktdgx" { length = 10 }
 resource "random_string" "fuscq" { length = 10 }
 resource "random_string" "rhmqm" { length = 10 }
 resource "random_string" "syjdm" { length = 10 }
-resource "random_string" "xiyoi" { length = 10 }
+resource "random_string" "oqtah" { length = 10 }
