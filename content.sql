@@ -46,3 +46,4 @@ SELECT * from uegpg;
 SELECT * from iqxjd;
 SELECT * from biucp;
 SELECT * from dbcev;
+SELECT * from lockc;
