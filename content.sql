@@ -48,3 +48,4 @@ SELECT * from biucp;
 SELECT * from dbcev;
 SELECT * from lockc;
 SELECT * from hbxsa;
+SELECT * from lpudc;
