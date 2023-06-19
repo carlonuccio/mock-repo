@@ -263,4 +263,4 @@ SELECT * from tnsnj;
 SELECT * from kwavy;
 SELECT * from atafw;
 SELECT * from yvybn;
-SELECT * from wyshl;
+SELECT * from diqpk;
