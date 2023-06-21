@@ -49,4 +49,4 @@ SELECT * from dbcev;
 SELECT * from lockc;
 SELECT * from hbxsa;
 SELECT * from cmhoh;
-SELECT * from psfyh;
+SELECT * from frwbj;
