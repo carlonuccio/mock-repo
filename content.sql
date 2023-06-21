@@ -264,4 +264,4 @@ SELECT * from kwavy;
 SELECT * from atafw;
 SELECT * from yvybn;
 SELECT * from dihqr;
-SELECT * from lgddw;
+SELECT * from cfuft;
