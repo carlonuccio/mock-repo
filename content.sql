@@ -50,4 +50,4 @@ SELECT * from lockc;
 SELECT * from hbxsa;
 SELECT * from cmhoh;
 SELECT * from fivtl;
-SELECT * from dsmum;
+SELECT * from aygeb;
