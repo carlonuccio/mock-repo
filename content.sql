@@ -51,4 +51,4 @@ SELECT * from hbxsa;
 SELECT * from cmhoh;
 SELECT * from fivtl;
 SELECT * from lojjm;
-SELECT * from csqeo;
+SELECT * from aetxx;
