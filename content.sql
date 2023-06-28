@@ -266,4 +266,4 @@ SELECT * from yvybn;
 SELECT * from dihqr;
 SELECT * from ngggm;
 SELECT * from pasrn;
-SELECT * from ekykh;
+SELECT * from atmmu;
