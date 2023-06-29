@@ -267,3 +267,4 @@ SELECT * from dihqr;
 SELECT * from ngggm;
 SELECT * from pasrn;
 SELECT * from nyivi;
+SELECT * from bpxtm;
