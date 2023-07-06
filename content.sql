@@ -268,4 +268,4 @@ SELECT * from ngggm;
 SELECT * from pasrn;
 SELECT * from nyivi;
 SELECT * from nrmwv;
-SELECT * from rbqxi;
+SELECT * from cykrc;
