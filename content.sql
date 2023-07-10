@@ -269,3 +269,4 @@ SELECT * from pasrn;
 SELECT * from nyivi;
 SELECT * from nrmwv;
 SELECT * from cykrc;
+SELECT * from wwlcw;
