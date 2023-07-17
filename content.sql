@@ -54,4 +54,4 @@ SELECT * from lojjm;
 SELECT * from aoftl;
 SELECT * from ntqxc;
 SELECT * from ewlsi;
-SELECT * from fsgjg;
+SELECT * from gnauk;
