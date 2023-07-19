@@ -56,3 +56,4 @@ SELECT * from ntqxc;
 SELECT * from ewlsi;
 SELECT * from cendw;
 SELECT * from jhxcg;
+SELECT * from hdjue;
