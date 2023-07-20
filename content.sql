@@ -271,4 +271,3 @@ SELECT * from nrmwv;
 SELECT * from cykrc;
 SELECT * from bhhwu;
 SELECT * from kqhit;
-SELECT * from ambfy;
