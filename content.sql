@@ -270,4 +270,4 @@ SELECT * from nyivi;
 SELECT * from nrmwv;
 SELECT * from cykrc;
 SELECT * from bhhwu;
-SELECT * from fphit;
+SELECT * from kbsbh;
