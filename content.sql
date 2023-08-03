@@ -57,4 +57,4 @@ SELECT * from ewlsi;
 SELECT * from cendw;
 SELECT * from yjuij;
 SELECT * from ybyop;
-SELECT * from fojdv;
+SELECT * from gsmxd;
