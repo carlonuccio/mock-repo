@@ -61,4 +61,3 @@ SELECT * from mmrmm;
 SELECT * from mpbgx;
 SELECT * from hktdj;
 SELECT * from qskqn;
-SELECT * from bwmcj;
