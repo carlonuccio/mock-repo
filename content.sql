@@ -277,4 +277,4 @@ SELECT * from ykwaq;
 SELECT * from lprte;
 SELECT * from lhudf;
 SELECT * from lqqjd;
-SELECT * from uqkyf;
+SELECT * from virtc;
