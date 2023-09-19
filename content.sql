@@ -62,4 +62,4 @@ SELECT * from mpbgx;
 SELECT * from hktdj;
 SELECT * from mhegh;
 SELECT * from lracs;
-SELECT * from cbymr;
+SELECT * from qukvp;
