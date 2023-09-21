@@ -278,3 +278,4 @@ SELECT * from lprte;
 SELECT * from lhudf;
 SELECT * from lqqjd;
 SELECT * from rcsyr;
+SELECT * from qpwcc;
