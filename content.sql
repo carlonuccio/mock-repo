@@ -280,4 +280,4 @@ SELECT * from lqqjd;
 SELECT * from rcsyr;
 SELECT * from qpwcc;
 SELECT * from hhbut;
-SELECT * from psmya;
+SELECT * from mtgas;
