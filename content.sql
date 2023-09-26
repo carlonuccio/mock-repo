@@ -282,3 +282,4 @@ SELECT * from qpwcc;
 SELECT * from hhbut;
 SELECT * from mtgas;
 SELECT * from fakoa;
+SELECT * from nbxbg;
