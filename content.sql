@@ -67,3 +67,4 @@ SELECT * from mlvgr;
 SELECT * from kwqff;
 SELECT * from vgbww;
 SELECT * from qxaye;
+SELECT * from vajyc;
