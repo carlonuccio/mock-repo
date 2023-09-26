@@ -281,4 +281,4 @@ SELECT * from rcsyr;
 SELECT * from qpwcc;
 SELECT * from hhbut;
 SELECT * from mtgas;
-SELECT * from xniiu;
+SELECT * from fakoa;
