@@ -283,3 +283,4 @@ SELECT * from hhbut;
 SELECT * from mtgas;
 SELECT * from fakoa;
 SELECT * from horhj;
+SELECT * from yihsc;
