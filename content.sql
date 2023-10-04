@@ -286,4 +286,4 @@ SELECT * from horhj;
 SELECT * from yihsc;
 SELECT * from fsflu;
 SELECT * from rjjtv;
-SELECT * from efigy;
+SELECT * from fghto;
