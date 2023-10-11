@@ -288,4 +288,4 @@ SELECT * from fsflu;
 SELECT * from rjjtv;
 SELECT * from fghto;
 SELECT * from ybhty;
-SELECT * from agmes;
+SELECT * from avdck;
