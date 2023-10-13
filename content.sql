@@ -73,4 +73,4 @@ SELECT * from wmlex;
 SELECT * from cokhv;
 SELECT * from hgigw;
 SELECT * from hsfju;
-SELECT * from otuvo;
+SELECT * from sgvhq;
