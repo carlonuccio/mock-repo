@@ -16,4 +16,4 @@ resource "random_string" "rhmqm" { length = 10 }
 resource "random_string" "syjdm" { length = 10 }
 resource "random_string" "dpyqd" { length = 10 }
 resource "random_string" "orhsa" { length = 10 }
-resource "random_string" "hwbmp" { length = 10 }
+resource "random_string" "bhtuk" { length = 10 }
