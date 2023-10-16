@@ -74,4 +74,4 @@ SELECT * from cokhv;
 SELECT * from hgigw;
 SELECT * from hsfju;
 SELECT * from sgvhq;
-SELECT * from kpfgp;
+SELECT * from sqand;
