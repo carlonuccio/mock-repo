@@ -290,4 +290,4 @@ SELECT * from fghto;
 SELECT * from ybhty;
 SELECT * from amlao;
 SELECT * from lpuyu;
-SELECT * from aysko;
+SELECT * from ottmw;
