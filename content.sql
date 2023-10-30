@@ -77,4 +77,4 @@ SELECT * from sgvhq;
 SELECT * from phskj;
 SELECT * from fbfxm;
 SELECT * from ukbtn;
-SELECT * from slsmj;
+SELECT * from bgwxj;
