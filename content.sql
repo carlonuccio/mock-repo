@@ -78,3 +78,4 @@ SELECT * from phskj;
 SELECT * from fbfxm;
 SELECT * from ukbtn;
 SELECT * from phdoh;
+SELECT * from ntchw;
