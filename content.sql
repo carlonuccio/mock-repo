@@ -295,3 +295,4 @@ SELECT * from wbvki;
 SELECT * from xwrgw;
 SELECT * from steux;
 SELECT * from tdrvt;
+SELECT * from lgqhx;
