@@ -80,4 +80,4 @@ SELECT * from ukbtn;
 SELECT * from phdoh;
 SELECT * from ecxri;
 SELECT * from qhqmh;
-SELECT * from quubo;
+SELECT * from tmnlg;
