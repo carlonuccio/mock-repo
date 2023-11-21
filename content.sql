@@ -81,3 +81,4 @@ SELECT * from phdoh;
 SELECT * from ecxri;
 SELECT * from qhqmh;
 SELECT * from tmnlg;
+SELECT * from jcgsl;
