@@ -82,4 +82,4 @@ SELECT * from ecxri;
 SELECT * from qhqmh;
 SELECT * from tmnlg;
 SELECT * from jcgsl;
-SELECT * from ayurq;
+SELECT * from rcrts;
