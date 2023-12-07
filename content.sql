@@ -83,4 +83,4 @@ SELECT * from qhqmh;
 SELECT * from tmnlg;
 SELECT * from jcgsl;
 SELECT * from oqcig;
-SELECT * from wdcwt;
+SELECT * from ihuky;
