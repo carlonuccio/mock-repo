@@ -299,3 +299,4 @@ SELECT * from tdxye;
 SELECT * from ggrpc;
 SELECT * from shnng;
 SELECT * from ixmen;
+SELECT * from wdqpt;
