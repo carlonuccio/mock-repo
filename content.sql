@@ -84,3 +84,4 @@ SELECT * from tmnlg;
 SELECT * from jcgsl;
 SELECT * from oqcig;
 SELECT * from ihuky;
+SELECT * from niuxk;
