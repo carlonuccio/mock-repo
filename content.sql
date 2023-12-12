@@ -86,3 +86,4 @@ SELECT * from oqcig;
 SELECT * from ihuky;
 SELECT * from jnvje;
 SELECT * from orrll;
+SELECT * from dwrwu;
