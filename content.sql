@@ -301,4 +301,4 @@ SELECT * from shnng;
 SELECT * from ixmen;
 SELECT * from tgvuv;
 SELECT * from fgcrv;
-SELECT * from nsmlm;
+SELECT * from ygaie;
