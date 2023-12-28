@@ -305,3 +305,4 @@ SELECT * from ygaie;
 SELECT * from bygcx;
 SELECT * from cpsty;
 SELECT * from efmgg;
+SELECT * from mdagg;
