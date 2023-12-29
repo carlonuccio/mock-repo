@@ -306,3 +306,4 @@ SELECT * from bygcx;
 SELECT * from cpsty;
 SELECT * from efmgg;
 SELECT * from iuhmy;
+SELECT * from rxysp;
