@@ -92,3 +92,4 @@ SELECT * from uetih;
 SELECT * from kftyf;
 SELECT * from umdbe;
 SELECT * from thiyi;
+SELECT * from eqvyd;
