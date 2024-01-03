@@ -307,4 +307,4 @@ SELECT * from cpsty;
 SELECT * from efmgg;
 SELECT * from iuhmy;
 SELECT * from wjtgc;
-SELECT * from gfcqr;
+SELECT * from adpev;
