@@ -93,3 +93,4 @@ SELECT * from kftyf;
 SELECT * from umdbe;
 SELECT * from thiyi;
 SELECT * from bygln;
+SELECT * from qartv;
