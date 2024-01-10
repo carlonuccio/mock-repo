@@ -96,4 +96,3 @@ SELECT * from bygln;
 SELECT * from qygxr;
 SELECT * from nsnie;
 SELECT * from rxtok;
-SELECT * from pkghh;
