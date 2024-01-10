@@ -311,4 +311,3 @@ SELECT * from qtrde;
 SELECT * from yxiyr;
 SELECT * from mltlo;
 SELECT * from yrtwm;
-SELECT * from pdcrf;
