@@ -310,3 +310,4 @@ SELECT * from wjtgc;
 SELECT * from qtrde;
 SELECT * from yxiyr;
 SELECT * from dmgyh;
+SELECT * from yeepw;
