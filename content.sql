@@ -95,4 +95,4 @@ SELECT * from thiyi;
 SELECT * from bygln;
 SELECT * from qygxr;
 SELECT * from ditid;
-SELECT * from fbuxs;
+SELECT * from llwtx;
