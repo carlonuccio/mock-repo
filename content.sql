@@ -94,4 +94,4 @@ SELECT * from umdbe;
 SELECT * from thiyi;
 SELECT * from bygln;
 SELECT * from qygxr;
-SELECT * from lnyyy;
+SELECT * from bokqf;
