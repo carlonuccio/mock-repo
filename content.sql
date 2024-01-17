@@ -312,3 +312,4 @@ SELECT * from yxiyr;
 SELECT * from oqykv;
 SELECT * from qrsak;
 SELECT * from bgspy;
+SELECT * from exomp;
