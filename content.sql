@@ -96,4 +96,4 @@ SELECT * from bygln;
 SELECT * from qygxr;
 SELECT * from njemh;
 SELECT * from tnrys;
-SELECT * from rabjv;
+SELECT * from hcikl;
