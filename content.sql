@@ -311,4 +311,4 @@ SELECT * from qtrde;
 SELECT * from yxiyr;
 SELECT * from oqykv;
 SELECT * from qrsak;
-SELECT * from aqakf;
+SELECT * from nfvik;
