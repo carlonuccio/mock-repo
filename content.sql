@@ -314,4 +314,4 @@ SELECT * from qrsak;
 SELECT * from piisq;
 SELECT * from yuskc;
 SELECT * from oifvs;
-SELECT * from gasqg;
+SELECT * from jsesm;
