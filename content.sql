@@ -99,4 +99,3 @@ SELECT * from tnrys;
 SELECT * from rsedo;
 SELECT * from todte;
 SELECT * from kbqfd;
-SELECT * from gbare;
