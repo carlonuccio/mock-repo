@@ -98,4 +98,4 @@ SELECT * from njemh;
 SELECT * from tnrys;
 SELECT * from rsedo;
 SELECT * from todte;
-SELECT * from typre;
+SELECT * from eifrc;
