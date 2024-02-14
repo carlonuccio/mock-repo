@@ -313,4 +313,4 @@ SELECT * from oqykv;
 SELECT * from qrsak;
 SELECT * from piisq;
 SELECT * from yuskc;
-SELECT * from gmcau;
+SELECT * from arkof;
