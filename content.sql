@@ -99,3 +99,4 @@ SELECT * from tnrys;
 SELECT * from rsedo;
 SELECT * from todte;
 SELECT * from luvts;
+SELECT * from lfpug;
