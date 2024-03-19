@@ -100,4 +100,4 @@ SELECT * from rsedo;
 SELECT * from todte;
 SELECT * from luvts;
 SELECT * from ujwgs;
-SELECT * from chnqf;
+SELECT * from vndiv;
