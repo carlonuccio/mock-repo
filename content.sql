@@ -101,4 +101,4 @@ SELECT * from todte;
 SELECT * from luvts;
 SELECT * from ujwgs;
 SELECT * from pbext;
-SELECT * from xnixj;
+SELECT * from eejcw;
