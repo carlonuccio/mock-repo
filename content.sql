@@ -102,3 +102,4 @@ SELECT * from luvts;
 SELECT * from ujwgs;
 SELECT * from pbext;
 SELECT * from yrroi;
+SELECT * from yejyc;
