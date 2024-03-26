@@ -319,3 +319,4 @@ SELECT * from punkv;
 SELECT * from vjdrh;
 SELECT * from xtxcf;
 SELECT * from koemx;
+SELECT * from qoxjr;
