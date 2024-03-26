@@ -103,3 +103,4 @@ SELECT * from ujwgs;
 SELECT * from pbext;
 SELECT * from yrroi;
 SELECT * from cwdla;
+SELECT * from wfrvp;
