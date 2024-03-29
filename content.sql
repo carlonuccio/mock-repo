@@ -321,3 +321,4 @@ SELECT * from xtxcf;
 SELECT * from koemx;
 SELECT * from qoxjr;
 SELECT * from qsdnf;
+SELECT * from snywp;
