@@ -107,3 +107,4 @@ SELECT * from wfrvp;
 SELECT * from xuamn;
 SELECT * from fqvyn;
 SELECT * from klmqt;
+SELECT * from ewbyd;
