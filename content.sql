@@ -324,4 +324,4 @@ SELECT * from qsdnf;
 SELECT * from yqbju;
 SELECT * from fvsbi;
 SELECT * from kmpsb;
-SELECT * from ikjnn;
+SELECT * from saejm;
