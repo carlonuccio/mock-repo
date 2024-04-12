@@ -326,3 +326,4 @@ SELECT * from fvsbi;
 SELECT * from kmpsb;
 SELECT * from vqhnj;
 SELECT * from ccykn;
+SELECT * from pqjot;
