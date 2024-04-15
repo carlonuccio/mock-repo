@@ -112,3 +112,4 @@ SELECT * from wrguy;
 SELECT * from xukwe;
 SELECT * from letji;
 SELECT * from hqcxk;
+SELECT * from hkgso;
