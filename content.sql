@@ -114,3 +114,4 @@ SELECT * from letji;
 SELECT * from hqcxk;
 SELECT * from hhqlo;
 SELECT * from crlrh;
+SELECT * from kesco;
