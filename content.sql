@@ -330,3 +330,4 @@ SELECT * from pqjot;
 SELECT * from vkmpt;
 SELECT * from silyc;
 SELECT * from parau;
+SELECT * from gteaq;
