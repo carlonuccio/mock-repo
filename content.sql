@@ -331,4 +331,4 @@ SELECT * from vkmpt;
 SELECT * from silyc;
 SELECT * from parau;
 SELECT * from cmltg;
-SELECT * from nghbf;
+SELECT * from ufjig;
