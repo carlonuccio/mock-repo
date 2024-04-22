@@ -117,4 +117,4 @@ SELECT * from crlrh;
 SELECT * from rlkqf;
 SELECT * from tuenr;
 SELECT * from biuph;
-SELECT * from dimph;
+SELECT * from scues;
