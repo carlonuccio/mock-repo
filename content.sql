@@ -115,4 +115,4 @@ SELECT * from hqcxk;
 SELECT * from hhqlo;
 SELECT * from crlrh;
 SELECT * from rlkqf;
-SELECT * from kwibn;
+SELECT * from tuenr;
