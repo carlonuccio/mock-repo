@@ -118,3 +118,4 @@ SELECT * from rlkqf;
 SELECT * from tuenr;
 SELECT * from biuph;
 SELECT * from scues;
+SELECT * from bobtu;
