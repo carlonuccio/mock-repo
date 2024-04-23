@@ -119,3 +119,4 @@ SELECT * from tuenr;
 SELECT * from biuph;
 SELECT * from scues;
 SELECT * from mkysx;
+SELECT * from qaoku;
