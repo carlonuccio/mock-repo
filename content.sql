@@ -333,4 +333,4 @@ SELECT * from parau;
 SELECT * from cmltg;
 SELECT * from ufjig;
 SELECT * from mjqfc;
-SELECT * from fsqoa;
+SELECT * from qxcnf;
