@@ -334,4 +334,4 @@ SELECT * from cmltg;
 SELECT * from ufjig;
 SELECT * from mjqfc;
 SELECT * from qxcnf;
-SELECT * from ggabe;
+SELECT * from glypl;
