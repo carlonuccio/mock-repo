@@ -335,3 +335,4 @@ SELECT * from ufjig;
 SELECT * from mjqfc;
 SELECT * from qxcnf;
 SELECT * from agysx;
+SELECT * from tntok;
