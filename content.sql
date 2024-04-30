@@ -120,3 +120,4 @@ SELECT * from biuph;
 SELECT * from scues;
 SELECT * from mkysx;
 SELECT * from nuknw;
+SELECT * from dwspy;
