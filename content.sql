@@ -121,4 +121,4 @@ SELECT * from scues;
 SELECT * from mkysx;
 SELECT * from nuknw;
 SELECT * from xlptd;
-SELECT * from eybms;
+SELECT * from cjspw;
