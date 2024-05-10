@@ -123,4 +123,4 @@ SELECT * from nuknw;
 SELECT * from xlptd;
 SELECT * from xlbku;
 SELECT * from fpuid;
-SELECT * from hfmam;
+SELECT * from stvfd;
