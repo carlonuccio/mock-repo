@@ -338,3 +338,4 @@ SELECT * from agysx;
 SELECT * from neptm;
 SELECT * from vysvj;
 SELECT * from ffcmg;
+SELECT * from hitvj;
