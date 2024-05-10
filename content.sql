@@ -124,3 +124,4 @@ SELECT * from xlptd;
 SELECT * from xlbku;
 SELECT * from fpuid;
 SELECT * from stvfd;
+SELECT * from ptsci;
