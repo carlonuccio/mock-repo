@@ -122,3 +122,4 @@ SELECT * from mkysx;
 SELECT * from nuknw;
 SELECT * from xlptd;
 SELECT * from xlbku;
+SELECT * from fpuid;
