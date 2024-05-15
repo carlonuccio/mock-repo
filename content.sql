@@ -340,4 +340,4 @@ SELECT * from vysvj;
 SELECT * from ffcmg;
 SELECT * from fyoyl;
 SELECT * from imeal;
-SELECT * from kivls;
+SELECT * from uircg;
