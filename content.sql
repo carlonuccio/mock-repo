@@ -126,3 +126,4 @@ SELECT * from fpuid;
 SELECT * from stvfd;
 SELECT * from peffo;
 SELECT * from qhpaq;
+SELECT * from kxxqo;
