@@ -342,3 +342,4 @@ SELECT * from fyoyl;
 SELECT * from imeal;
 SELECT * from vrptx;
 SELECT * from tkmoh;
+SELECT * from owcje;
