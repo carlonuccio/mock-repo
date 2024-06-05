@@ -343,4 +343,4 @@ SELECT * from imeal;
 SELECT * from vrptx;
 SELECT * from tkmoh;
 SELECT * from sqolf;
-SELECT * from dletc;
+SELECT * from yryru;
