@@ -129,3 +129,4 @@ SELECT * from fbqjm;
 SELECT * from bvxht;
 SELECT * from bjhgb;
 SELECT * from vhojn;
+SELECT * from uaiyh;
