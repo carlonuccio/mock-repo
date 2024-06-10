@@ -345,4 +345,4 @@ SELECT * from tkmoh;
 SELECT * from sqolf;
 SELECT * from yryru;
 SELECT * from uqttx;
-SELECT * from bjiof;
+SELECT * from hdock;
