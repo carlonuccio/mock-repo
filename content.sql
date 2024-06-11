@@ -346,3 +346,4 @@ SELECT * from sqolf;
 SELECT * from yryru;
 SELECT * from uqttx;
 SELECT * from hdock;
+SELECT * from shcyq;
