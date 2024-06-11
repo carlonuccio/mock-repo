@@ -19,4 +19,4 @@ resource "random_string" "orhsa" { length = 10 }
 resource "random_string" "auwmd" { length = 10 }
 resource "random_string" "vwurs" { length = 10 }
 resource "random_string" "rrese" { length = 10 }
-resource "random_string" "yrswc" { length = 10 }
+resource "random_string" "upgox" { length = 10 }
