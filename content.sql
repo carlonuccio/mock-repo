@@ -349,3 +349,4 @@ SELECT * from hdock;
 SELECT * from shcyq;
 SELECT * from pasyi;
 SELECT * from vrryf;
+SELECT * from tfghq;
