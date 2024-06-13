@@ -348,3 +348,4 @@ SELECT * from uqttx;
 SELECT * from hdock;
 SELECT * from shcyq;
 SELECT * from pasyi;
+SELECT * from wrigt;
