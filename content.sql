@@ -135,3 +135,4 @@ SELECT * from ebnch;
 SELECT * from dromp;
 SELECT * from senkc;
 SELECT * from eptdu;
+SELECT * from ajpla;
