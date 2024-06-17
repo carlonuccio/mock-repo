@@ -350,4 +350,4 @@ SELECT * from shcyq;
 SELECT * from pasyi;
 SELECT * from vrryf;
 SELECT * from tfghq;
-SELECT * from vodgv;
+SELECT * from qfnew;
