@@ -20,4 +20,4 @@ resource "random_string" "auwmd" { length = 10 }
 resource "random_string" "vwurs" { length = 10 }
 resource "random_string" "rrese" { length = 10 }
 resource "random_string" "obnng" { length = 10 }
-resource "random_string" "dyutd" { length = 10 }
+resource "random_string" "dlsuj" { length = 10 }
