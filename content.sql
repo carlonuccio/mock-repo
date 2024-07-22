@@ -144,4 +144,4 @@ SELECT * from jnncn;
 SELECT * from xlekg;
 SELECT * from vufue;
 SELECT * from jrdmv;
-SELECT * from okvqu;
+SELECT * from vkucy;
