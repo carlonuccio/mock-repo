@@ -23,3 +23,4 @@ resource "random_string" "obnng" { length = 10 }
 resource "random_string" "fsbqa" { length = 10 }
 resource "random_string" "mddhw" { length = 10 }
 resource "random_string" "qgttw" { length = 10 }
+resource "random_string" "nwjqu" { length = 10 }
