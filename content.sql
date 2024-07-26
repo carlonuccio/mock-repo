@@ -145,4 +145,4 @@ SELECT * from xlekg;
 SELECT * from vufue;
 SELECT * from jrdmv;
 SELECT * from dwgip;
-SELECT * from mslim;
+SELECT * from ryush;
