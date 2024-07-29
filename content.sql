@@ -361,3 +361,4 @@ SELECT * from bpyfn;
 SELECT * from fnnqi;
 SELECT * from dvary;
 SELECT * from lfeta;
+SELECT * from omifv;
