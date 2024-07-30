@@ -147,3 +147,4 @@ SELECT * from jrdmv;
 SELECT * from dwgip;
 SELECT * from hqdsd;
 SELECT * from tvydk;
+SELECT * from lemqq;
