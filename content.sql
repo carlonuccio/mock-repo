@@ -363,3 +363,4 @@ SELECT * from dvary;
 SELECT * from lfeta;
 SELECT * from ohvhe;
 SELECT * from haafv;
+SELECT * from chmnf;
