@@ -149,4 +149,4 @@ SELECT * from hqdsd;
 SELECT * from tvydk;
 SELECT * from ddkhv;
 SELECT * from avmen;
-SELECT * from duhso;
+SELECT * from bpcbk;
