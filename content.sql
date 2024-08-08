@@ -150,3 +150,4 @@ SELECT * from tvydk;
 SELECT * from ddkhv;
 SELECT * from avmen;
 SELECT * from eqrdw;
+SELECT * from cplbu;
