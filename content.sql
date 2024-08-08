@@ -152,4 +152,4 @@ SELECT * from avmen;
 SELECT * from eqrdw;
 SELECT * from fqwui;
 SELECT * from wmqeo;
-SELECT * from scxcp;
+SELECT * from wayoj;
