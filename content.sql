@@ -153,4 +153,4 @@ SELECT * from eqrdw;
 SELECT * from fqwui;
 SELECT * from wmqeo;
 SELECT * from thwhb;
-SELECT * from budji;
+SELECT * from pjpdt;
