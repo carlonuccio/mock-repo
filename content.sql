@@ -155,4 +155,4 @@ SELECT * from wmqeo;
 SELECT * from thwhb;
 SELECT * from tdivn;
 SELECT * from brrph;
-SELECT * from imrue;
+SELECT * from talex;
