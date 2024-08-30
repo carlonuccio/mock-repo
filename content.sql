@@ -373,3 +373,4 @@ SELECT * from nfdgb;
 SELECT * from dcald;
 SELECT * from cxnpl;
 SELECT * from mhuib;
+SELECT * from whjys;
