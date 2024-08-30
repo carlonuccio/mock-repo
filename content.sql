@@ -372,3 +372,4 @@ SELECT * from iwmub;
 SELECT * from nfdgb;
 SELECT * from dcald;
 SELECT * from cxnpl;
+SELECT * from mhuib;
