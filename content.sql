@@ -157,3 +157,4 @@ SELECT * from tdivn;
 SELECT * from brrph;
 SELECT * from qdvoc;
 SELECT * from gabvn;
+SELECT * from travf;
