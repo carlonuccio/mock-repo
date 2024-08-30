@@ -156,4 +156,4 @@ SELECT * from thwhb;
 SELECT * from tdivn;
 SELECT * from brrph;
 SELECT * from qdvoc;
-SELECT * from iaumu;
+SELECT * from gabvn;
