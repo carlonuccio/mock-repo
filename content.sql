@@ -371,4 +371,4 @@ SELECT * from xcrfq;
 SELECT * from iwmub;
 SELECT * from nfdgb;
 SELECT * from dcald;
-SELECT * from wbvmt;
+SELECT * from cxnpl;
