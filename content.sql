@@ -158,4 +158,4 @@ SELECT * from brrph;
 SELECT * from qdvoc;
 SELECT * from gabvn;
 SELECT * from travf;
-SELECT * from hjslk;
+SELECT * from jorom;
