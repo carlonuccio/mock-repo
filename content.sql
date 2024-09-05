@@ -160,3 +160,4 @@ SELECT * from gabvn;
 SELECT * from travf;
 SELECT * from vwetg;
 SELECT * from esfaj;
+SELECT * from baujn;
