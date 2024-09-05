@@ -375,4 +375,4 @@ SELECT * from cxnpl;
 SELECT * from mhuib;
 SELECT * from xvuud;
 SELECT * from nqyue;
-SELECT * from svcog;
+SELECT * from cwaur;
