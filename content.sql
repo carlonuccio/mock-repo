@@ -161,3 +161,4 @@ SELECT * from travf;
 SELECT * from vwetg;
 SELECT * from esfaj;
 SELECT * from ihfov;
+SELECT * from pbwnr;
