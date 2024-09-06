@@ -162,3 +162,4 @@ SELECT * from vwetg;
 SELECT * from esfaj;
 SELECT * from ihfov;
 SELECT * from ydpxm;
+SELECT * from bqiyf;
