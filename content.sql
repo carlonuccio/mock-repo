@@ -376,3 +376,4 @@ SELECT * from mhuib;
 SELECT * from xvuud;
 SELECT * from nqyue;
 SELECT * from kscgg;
+SELECT * from ipglu;
