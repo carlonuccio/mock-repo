@@ -379,4 +379,4 @@ SELECT * from kscgg;
 SELECT * from emnpj;
 SELECT * from mjvmc;
 SELECT * from elicw;
-SELECT * from eelkr;
+SELECT * from bhukk;
