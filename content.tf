@@ -24,4 +24,4 @@ resource "random_string" "fsbqa" { length = 10 }
 resource "random_string" "mddhw" { length = 10 }
 resource "random_string" "qgttw" { length = 10 }
 resource "random_string" "nwjqu" { length = 10 }
-resource "random_string" "rsqaq" { length = 10 }
+resource "random_string" "kxbff" { length = 10 }
