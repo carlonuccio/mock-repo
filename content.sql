@@ -382,3 +382,4 @@ SELECT * from elicw;
 SELECT * from dfgif;
 SELECT * from qppmi;
 SELECT * from nktth;
+SELECT * from jcpff;
