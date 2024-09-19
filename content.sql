@@ -384,3 +384,4 @@ SELECT * from qppmi;
 SELECT * from nktth;
 SELECT * from krkhh;
 SELECT * from pnyxs;
+SELECT * from dexxn;
