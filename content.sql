@@ -385,3 +385,4 @@ SELECT * from nktth;
 SELECT * from krkhh;
 SELECT * from pnyxs;
 SELECT * from dexxn;
+SELECT * from dihqr;
