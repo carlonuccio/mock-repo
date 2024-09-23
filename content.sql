@@ -171,4 +171,4 @@ SELECT * from ggvxt;
 SELECT * from vyhpt;
 SELECT * from viure;
 SELECT * from swfyo;
-SELECT * from wyhlo;
+SELECT * from xsmmo;
