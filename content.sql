@@ -386,4 +386,4 @@ SELECT * from krkhh;
 SELECT * from pnyxs;
 SELECT * from dexxn;
 SELECT * from dihqr;
-SELECT * from orhso;
+SELECT * from ldyds;
