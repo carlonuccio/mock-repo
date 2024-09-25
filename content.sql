@@ -387,3 +387,4 @@ SELECT * from pnyxs;
 SELECT * from dexxn;
 SELECT * from dihqr;
 SELECT * from jixha;
+SELECT * from maspd;
