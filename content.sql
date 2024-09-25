@@ -172,4 +172,3 @@ SELECT * from vyhpt;
 SELECT * from viure;
 SELECT * from swfyo;
 SELECT * from acfds;
-SELECT * from danct;
