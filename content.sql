@@ -174,4 +174,4 @@ SELECT * from swfyo;
 SELECT * from quvnv;
 SELECT * from illcd;
 SELECT * from tvocs;
-SELECT * from osigs;
+SELECT * from ngxxa;
