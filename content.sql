@@ -389,4 +389,4 @@ SELECT * from dihqr;
 SELECT * from jixha;
 SELECT * from maspd;
 SELECT * from nqybs;
-SELECT * from qbsrx;
+SELECT * from xsrbq;
