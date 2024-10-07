@@ -390,3 +390,4 @@ SELECT * from jixha;
 SELECT * from maspd;
 SELECT * from nqybs;
 SELECT * from fcfex;
+SELECT * from whftp;
