@@ -175,3 +175,6 @@ SELECT * from quvnv;
 SELECT * from illcd;
 SELECT * from tvocs;
 SELECT * from vokeb;
+SELECT * from kkxie;
+SELECT * from bogci;
+SELECT * from xchlg;
