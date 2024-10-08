@@ -391,3 +391,5 @@ SELECT * from maspd;
 SELECT * from nqybs;
 SELECT * from fcfex;
 SELECT * from whftp;
+SELECT * from lshfa;
+SELECT * from qabnn;
