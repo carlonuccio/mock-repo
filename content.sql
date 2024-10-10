@@ -178,4 +178,4 @@ SELECT * from vokeb;
 SELECT * from kkxie;
 SELECT * from bogci;
 SELECT * from xchlg;
-SELECT * from fnycy;
+SELECT * from wisla;
