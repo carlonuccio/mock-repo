@@ -179,3 +179,5 @@ SELECT * from kkxie;
 SELECT * from bogci;
 SELECT * from xchlg;
 SELECT * from tanvg;
+SELECT * from hvobf;
+SELECT * from wpgtm;
