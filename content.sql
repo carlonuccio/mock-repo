@@ -180,4 +180,4 @@ SELECT * from bogci;
 SELECT * from xchlg;
 SELECT * from tanvg;
 SELECT * from hvobf;
-SELECT * from krwdn;
+SELECT * from xlfxg;
