@@ -182,4 +182,4 @@ SELECT * from tanvg;
 SELECT * from hvobf;
 SELECT * from mghtj;
 SELECT * from irgms;
-SELECT * from djcus;
+SELECT * from ftgsm;
