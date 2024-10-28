@@ -398,4 +398,4 @@ SELECT * from vckov;
 SELECT * from eevkf;
 SELECT * from obldc;
 SELECT * from jsynp;
-SELECT * from wyvjc;
+SELECT * from hsycw;
