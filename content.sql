@@ -183,4 +183,4 @@ SELECT * from hvobf;
 SELECT * from mghtj;
 SELECT * from irgms;
 SELECT * from miaqi;
-SELECT * from ffijo;
+SELECT * from ptosq;
