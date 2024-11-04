@@ -186,3 +186,4 @@ SELECT * from miaqi;
 SELECT * from rxumj;
 SELECT * from wbvns;
 SELECT * from rrjfq;
+SELECT * from jpelu;
