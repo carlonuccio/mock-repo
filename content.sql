@@ -399,3 +399,4 @@ SELECT * from eevkf;
 SELECT * from obldc;
 SELECT * from jsynp;
 SELECT * from juvjr;
+SELECT * from bitur;
