@@ -406,3 +406,4 @@ SELECT * from qntbh;
 SELECT * from eyyhu;
 SELECT * from kyykt;
 SELECT * from qpshr;
+SELECT * from lggbg;
