@@ -409,4 +409,4 @@ SELECT * from qpshr;
 SELECT * from lggbg;
 SELECT * from fewto;
 SELECT * from coimt;
-SELECT * from stdrb;
+SELECT * from oktya;
