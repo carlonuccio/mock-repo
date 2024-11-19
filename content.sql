@@ -194,4 +194,4 @@ SELECT * from tqscg;
 SELECT * from wioqs;
 SELECT * from ojebc;
 SELECT * from mclyi;
-SELECT * from xfajp;
+SELECT * from ruieo;
