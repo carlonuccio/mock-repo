@@ -410,3 +410,4 @@ SELECT * from lggbg;
 SELECT * from fewto;
 SELECT * from coimt;
 SELECT * from ckqxb;
+SELECT * from qnjnh;
