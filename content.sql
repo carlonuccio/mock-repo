@@ -195,4 +195,4 @@ SELECT * from wioqs;
 SELECT * from ojebc;
 SELECT * from mclyi;
 SELECT * from epybt;
-SELECT * from uokqu;
+SELECT * from pytui;
