@@ -412,3 +412,4 @@ SELECT * from coimt;
 SELECT * from ckqxb;
 SELECT * from msoup;
 SELECT * from rgelh;
+SELECT * from exiyi;
