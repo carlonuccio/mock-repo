@@ -196,3 +196,4 @@ SELECT * from ojebc;
 SELECT * from mclyi;
 SELECT * from epybt;
 SELECT * from lcxnu;
+SELECT * from emxnh;
