@@ -199,3 +199,4 @@ SELECT * from lcxnu;
 SELECT * from emxnh;
 SELECT * from hfikw;
 SELECT * from tcyik;
+SELECT * from ycmet;
