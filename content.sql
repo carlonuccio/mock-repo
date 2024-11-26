@@ -413,4 +413,4 @@ SELECT * from ckqxb;
 SELECT * from msoup;
 SELECT * from rgelh;
 SELECT * from exiyi;
-SELECT * from kuycb;
+SELECT * from bfqty;
