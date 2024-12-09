@@ -416,3 +416,4 @@ SELECT * from exiyi;
 SELECT * from shxkj;
 SELECT * from cgexs;
 SELECT * from vxetn;
+SELECT * from jahsi;
