@@ -203,3 +203,4 @@ SELECT * from xowvw;
 SELECT * from bfouy;
 SELECT * from tsmth;
 SELECT * from kmdwx;
+SELECT * from plnfa;
