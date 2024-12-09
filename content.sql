@@ -201,3 +201,4 @@ SELECT * from hfikw;
 SELECT * from tcyik;
 SELECT * from xowvw;
 SELECT * from bfouy;
+SELECT * from tsmth;
