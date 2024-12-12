@@ -422,4 +422,4 @@ SELECT * from tbwbn;
 SELECT * from rrbok;
 SELECT * from bedpu;
 SELECT * from qwhwx;
-SELECT * from mneke;
+SELECT * from kuhyt;
