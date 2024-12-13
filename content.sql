@@ -209,3 +209,4 @@ SELECT * from eqlwb;
 SELECT * from yabdg;
 SELECT * from fyujw;
 SELECT * from imbwo;
+SELECT * from rinbk;
