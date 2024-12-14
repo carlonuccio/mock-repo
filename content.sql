@@ -210,4 +210,4 @@ SELECT * from yabdg;
 SELECT * from fyujw;
 SELECT * from imbwo;
 SELECT * from ctvwk;
-SELECT * from upimp;
+SELECT * from idvit;
