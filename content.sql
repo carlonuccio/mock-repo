@@ -424,4 +424,5 @@ SELECT * from bedpu;
 SELECT * from qwhwx;
 SELECT * from wsjpn;
 SELECT * from hlvnj;
-SELECT * from weebn;
+SELECT * from ulfrm;
+SELECT * from sakiw;
