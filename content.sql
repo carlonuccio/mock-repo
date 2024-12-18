@@ -426,4 +426,4 @@ SELECT * from wsjpn;
 SELECT * from hlvnj;
 SELECT * from ulfrm;
 SELECT * from ueqpp;
-SELECT * from vimau;
+SELECT * from xudaf;
