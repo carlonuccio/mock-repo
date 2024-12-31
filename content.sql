@@ -428,4 +428,4 @@ SELECT * from ulfrm;
 SELECT * from ueqpp;
 SELECT * from ufvrh;
 SELECT * from gwaln;
-SELECT * from bevug;
+SELECT * from jxstl;
