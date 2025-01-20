@@ -214,4 +214,3 @@ SELECT * from rnokw;
 SELECT * from llhfq;
 SELECT * from ldnjg;
 SELECT * from acnra;
-SELECT * from jards;
