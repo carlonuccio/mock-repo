@@ -429,4 +429,3 @@ SELECT * from ueqpp;
 SELECT * from ufvrh;
 SELECT * from puxwx;
 SELECT * from oxmlw;
-SELECT * from binvs;
